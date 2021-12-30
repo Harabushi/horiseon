@@ -28,7 +28,7 @@ p {
     margin-left: 25px;
 }
 
-/* header Styling */
+/* header/nav Styling */
 
 header {
     padding: 20px;
@@ -63,15 +63,14 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* end header styling */
+/* end header/nav styling */
 
 /* hero styling */
 
 .hero {
-    height: 800px;
+    height: 100%;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
