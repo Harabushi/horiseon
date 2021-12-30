@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header Styling */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +42,8 @@ body {
     margin-left: 25px;
 }
 
+/* end header styling */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* hero styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +62,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* end hero styling */
 
 .float-left {
     float: left;
@@ -75,8 +81,10 @@ p {
     margin-left: 20px;
 }
 
+/* benefits styling */
+
 .benefits {
-    margin-right: 20px;
+    margin: 20px;
     padding: 20px;
     clear: both;
     float: right;
@@ -134,6 +142,9 @@ p {
     max-width: 150px;
 }
 
+/* end benefits styling */
+
+/* content styling */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +199,10 @@ p {
     font-size: 36px;
 }
 
+/* end content styling */
+
+/* footer styling */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +213,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/* end footer styling */
