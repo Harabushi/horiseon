@@ -17,6 +17,7 @@ p {
     font-size: 16px;
 }
 
+/* utility styles */
 
 .float-left {
     float: left;
@@ -27,6 +28,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* end utility styles */
 
 /* header/nav Styling */
 
@@ -85,7 +88,7 @@ header nav ul li {
     margin-left: 20px;
 }
 
-.content div {
+.content section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -118,7 +121,7 @@ header nav ul li {
     background-color: #2589bd;
 }
 
-.benefits div {
+.benefits figure {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -145,7 +148,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
 
